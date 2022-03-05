@@ -26,6 +26,15 @@ int main() {
     //cout << "Point b:";
     //b.print(); 
 
+    // Look! the equal operator still works!
+    // a = b;
+    //cout << "Point a:";
+    //a.print();
+
+    // a.setPoints(33.9, 1072.8);
+    //cout << "Point a:";
+    //a.print();
+
     return 0;
 }
 
